@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-rnd\for-rnd\bin\Debug\for-rnd.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-rnd\for-rnd\bin\Debug\for-rnd.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-rnd\for-rnd\bin\Debug\for-rnd.pdb
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-rnd\for-rnd\obj\Debug\for-rnd.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-rnd\for-rnd\obj\Debug\for-rnd.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-rnd\for-rnd\obj\Debug\for_rnd.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-rnd\for-rnd\obj\Debug\for_rnd.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-rnd\for-rnd\obj\Debug\for-rnd.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-rnd\for-rnd\obj\Debug\for-rnd.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-rnd\for-rnd\obj\Debug\for-rnd.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-rnd\for-rnd\obj\Debug\for-rnd.pdb
